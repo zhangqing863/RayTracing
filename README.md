@@ -26,3 +26,6 @@
 ![image](https://github.com/zq6p/MyPicture/blob/master/离焦模糊.bmp?raw=true)
 ## RayTracing_ZQ(one weekend down).zip
 ![image](https://github.com/zq6p/MyPicture/blob/master/最终高分辨率版.bmp?raw=true)
+
+## RayTracing_ZQ(运动模糊).zip
+![image](https://github.com/zq6p/MyPicture/blob/master/运动模糊.bmp?raw=true)

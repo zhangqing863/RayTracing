@@ -29,3 +29,7 @@
 
 ## RayTracing_ZQ(运动模糊).zip
 ![image](https://github.com/zq6p/MyPicture/blob/master/运动模糊.bmp?raw=true)
+## RayTracing_ZQ(纹理).zip
+![image](https://github.com/zq6p/MyPicture/blob/master/棋盘纹理.bmp?raw=true)
+![image](https://github.com/zq6p/MyPicture/blob/master/棋盘纹理2.bmp?raw=true)
+![image](https://github.com/zq6p/MyPicture/blob/master/图像纹理.bmp?raw=true)

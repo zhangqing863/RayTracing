@@ -33,3 +33,5 @@
 ![image](https://github.com/zq6p/MyPicture/blob/master/棋盘纹理.bmp?raw=true)
 ![image](https://github.com/zq6p/MyPicture/blob/master/棋盘纹理2.bmp?raw=true)
 ![image](https://github.com/zq6p/MyPicture/blob/master/图像纹理.bmp?raw=true)
+## RayTracing_ZQ(柏林噪声).zip
+![image](https://github.com/zq6p/MyPicture/blob/master/柏林噪声.bmp?raw=true)
